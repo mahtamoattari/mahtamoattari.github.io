@@ -1,0 +1,65 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower|Josefin+Sans);
+
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  background-color: black;
+}
+
+.image { 
+   position: relative; 
+   width: 100%; /* for IE 6 */
+}
+
+h1{ 
+  /* position: absolute; */
+   padding-top: 30px; 
+   color: #7f7452;
+   font-family: 'Josefin Sans', sans-serif;
+}
+.xlarge-margin{
+	margin-bottom: 150px;
+}
+.large-margin{
+	margin-bottom: 100px;
+}
+.midume-margin{
+	margin-bottom: 50px;
+}
+
+.small-margin{
+	margin-bottom: 30px;
+}
+.xsmall-margin{
+	margin-bottom: 20px;
+}
+
+h2{
+	color: #7f7452;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.pra-font{
+	color:#7f7452;
+	font-family: 'Josefin Sans', sans-serif;	
+
+}
+
+ .text-padding{
+	padding-left: 50px;
+	padding-top: 50px;
+}
+.large-padding{
+	padding-left: 150px;
+	padding-top: 200px;
+}
+.midume-padding{
+	margin-top: 50px;
+}
+
+.color-hr{
+
+	border-top: 1px solid  #ca9e19;	
+}
+
+
